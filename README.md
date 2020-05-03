@@ -1,6 +1,6 @@
 # Sudoku
 My take on Sudoku puzzle.\
-Offers 3 different difficulties.
+Offers 3 different difficulties:
 ```
 easy
 medium
